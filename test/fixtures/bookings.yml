@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  appointment: one
+  name: MyString
+  date: 2022-02-18
+  time: 2022-02-18 10:49:42
+  email: MyString
+  message: MyText
+
+two:
+  appointment: two
+  name: MyString
+  date: 2022-02-18
+  time: 2022-02-18 10:49:42
+  email: MyString
+  message: MyText
